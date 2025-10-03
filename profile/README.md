@@ -16,9 +16,9 @@ Member of APECOF - National Association of Forensic Computing Experts.
 Forensic Computing Expert for the Court of Justice of the Federal District and Territories (TJDFT).
 
 ## 📊 GitHub Stats
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosergiosl&layout=compact&theme=radical&hide_border=true)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosergiosl&layout=compact&theme=radical&hide_border=true)
 
 ## 📚 Education
 - [More on Lattes](http://lattes.cnpq.br/2504292559472109)
