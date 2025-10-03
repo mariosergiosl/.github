@@ -8,8 +8,7 @@ Updated on: **October 03, 2025**.
 ## 🛠️ About Me
 - 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/mariosergiosl/) | [Personal Blog](https://nordico.club) | [GitHub](https://github.com/mariosergiosl) | [Lattes](https://lattes.cnpq.br/2504292559472109) | [ORCID](https://orcid.org/0009-0006-3750-1871)
 - 🎯 **Focus**: IT Infrastructure, Linux, Cloud Computing, Infrastructure Automation, Kubernetes, Cybersecurity, Information Security, Forensic Computing, High Availability, Virtualization, MBA, ISO27001, LGPD, GDPR, Member of APECOF - National Association of Forensic Computing Experts. Forensic Computing Expert for the Court of Justice of the Federal District and Territories (TJDFT).
-## 📚 Education and 💼 Professional Experience
-- [More on Lattes](http://lattes.cnpq.br/2504292559472109) - [Full CV on LinkedIn](https://www.linkedin.com/in/mariosergiosl/)
+- 📚 **Education** and 💼 **Professional Experience**: - [Lattes](http://lattes.cnpq.br/2504292559472109) - [Full CV on LinkedIn](https://www.linkedin.com/in/mariosergiosl/)
 
 ## 📊 GitHub Stats
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
