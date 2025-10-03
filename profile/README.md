@@ -25,36 +25,26 @@ Forensic Computing Expert for the Court of Justice of the Federal District and T
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
 
 ## 📚 Education
-- **Postgraduate Degree in Forensic Practice (Latu-Sensu)**, Computer and Information Systems Security/Information Assurance, Faculdade Iguaçu (Jul 2025 – Feb 2026)  
-  Skills: Computer Forensics, Digital Forensics, Network Forensics, Forensic Analysis, Mobile Forensics.
-- **MBA Executive in Project Management PMI-PMBOK**, Project Management, Faculdade Iguaçu (Jul 2025 – Feb 2026)  
-  Skills: Project Management, Strategic IT Management, Leadership, Analysis and Decision-Making, Risk Management.
-- **Postgraduate Degree in Cyber Forensics (Latu-Sensu)**, Computer and Information Systems Security/Information Assurance, Faculdade Iguaçu (Jan 2025 – Aug 2025).
-- **Postgraduate Degree in Forensic Computing (Latu-Sensu)**, Computer and Information Systems Security/Information Assurance, Faculdade Iguaçu (Jan 2025 – Jun 2025)  
-  Skills: Forensic Analysis, Digital Forensics, Network Forensics, Computer Forensics, Forensic Engineering.
-- **Postgraduate Degree in Digital Law (Latu-Sensu)**, Computer and Information Systems Security/Information Assurance, Faculdade Iguaçu (Jan 2025 – Jun 2025)  
-  Skills: Computer Forensics, Security Management, Digital Law, Digital Forensics.
-- **Postgraduate Degree in Risk Management and Cybersecurity (Latu-Sensu)**, Information Security, Faculdade Focus (May 2024 – Dec 2024).
-- **Postgraduate Degree in Information Security (Latu-Sensu)**, Information Security, Faculdade Focus (May 2024 – Dec 2024).
-- **Postgraduate Degree in Data Science and Big Data Analytics**, Computer Science (Latu-Sensu), ESAB - Escola Superior Aberta do Brasil (Apr 2023 – Mar 2024).
-- **Technologist Degree in Systems Analysis and Development (Higher Education)**, Computer Software Engineering, Faculdade de Tecnologia e Ciências do Alto Paranaíba - FATAP (Aug 2021 – Dec 2023)  
-  Skills: Information Security, Software Project Management, Software Development, Requirements Analysis, Programming Languages.
-- **Postgraduate Degree in Software Engineering (Professional MBA)**, Information Technology, ESAB - Escola Superior Aberta do Brasil (Sep 2018 – Apr 2019).
-- **Postgraduate Degree in Computer Networks (Professional MBA)**, Computer Networks, ESAB - Escola Superior Aberta do Brasil (Oct 2011 – Apr 2012).
-- **Postgraduate Certificate in Computer Networks (Latu-Sensu)**, Computer Networks, ESAB - Escola Superior Aberta do Brasil (Oct 2012 – Mar 2013).
-- **Technologist Program in Computer Networks (Higher Education)**, Computer Networks, União Educacional de Brasília - Uneb (Feb 2005 – Sep 2011).
+- [More on Lattes](http://lattes.cnpq.br/2504292559472109)
+- [Full CV on LinkedIn](https://www.linkedin.com/in/mariosergiosl/)
+- **Postgraduate Degree in Forensic Practice (Latu-Sensu)**,
+- **MBA Executive in Project Management PMI-PMBOK (Latu-Sensu)**,
+- **Postgraduate Degree in Cyber Forensics (Latu-Sensu)**,
+- **Postgraduate Degree in Forensic Computing (Latu-Sensu)**,
+- **Postgraduate Degree in Digital Law (Latu-Sensu)**,
+- **Postgraduate Degree in Risk Management and Cybersecurity (Latu-Sensu)**,
+- **Postgraduate Degree in Information Security (Latu-Sensu)**,
+- **Postgraduate Degree in Data Science and Big Data Analytics**,
+- **Technologist Degree in Systems Analysis and Development (Higher Education)**,
+- **Postgraduate Degree in Software Engineering (Professional MBA)**,
+- **Postgraduate Degree in Computer Networks (Professional MBA)**,
+- **Postgraduate Certificate in Computer Networks (Latu-Sensu)**,
+- **Technologist Program in Computer Networks (Higher Education)**,
 
 ## 💼 Professional Experience
-- **Premium Services Engineer**, SUSE (Aug 2021 – Present, 4 yrs 3 mos, Remote from Nuremberg, Bavaria, Germany)  
-  Partnering with enterprise clients to maximize the value of SUSE Linux investments. Actively participating in consulting and architecture for transformative projects to migrate and standardize 600+ servers.
-- **Judicial Expert in Applied Forensic Computing**, TJDFT - Freelance (Jun 2025 – Present, 5 mos, Remote from Brasília, Federal District, Brazil)  
-  Serving as an auxiliary professional, conducting forensic examinations in the field of Applied Forensic Computing.
-- **Application Support Specialist**, Global Hits (Jan 2021 – Sep 2021, 9 mos, Remote from Brazil)  
-  Application Support Specialist with a focus on WebSphere environments. Key responsibilities included: Automating the deployment of WebSphere environments on Linux using Ansible playbooks and custom...
-- **Senior Infrastructure Analyst**, Central IT (Apr 2018 – Mar 2020, 2 yrs, Hybrid from Brasília, Distrito Federal, Brazil)  
-  Successfully automated routine tasks and standardized Linux environments, resulting in increased operational efficiency and reduced manual intervention. Led the successful deployment of SUSE Manager, Caas...
-- **Senior Systems Engineer**, Mais2X (Dec 2014 – Apr 2018, 3 yrs 5 mos from Brasília, Região Federal, Brazil)  
-  Responsible for automating routines, standardizing and updating environments, auditing Linux operating systems, deploying SUSE Manager 3. Cluster SUSE Caas, support JBoss, Tomcat, Sol, PHP application...
+- [Full CV on LinkedIn](https://www.linkedin.com/in/mariosergiosl/)
+- **Premium Services Engineer**, SUSE 
+- **Judicial Expert in Applied Forensic Computing**, TJDFT - Freelance 
 
 ## 🚀 Highlighted GitHub Projects
 - [Salt Master with Podman](https://github.com/mariosergiosl/salt-master)  
@@ -71,12 +61,6 @@ Forensic Computing Expert for the Court of Justice of the Federal District and T
   [![Stars](https://img.shields.io/github/stars/mariosergiosl/k3d)](https://github.com/mariosergiosl/k3d)
 
 ## 🌟 Achievements and Interests
-- Contributions to openSUSE and SaltStack communities.
 - Projects focused on efficiency and security (e.g., anomaly detection in processes).
-- Interests: AI for DevOps, edge computing, digital forensics, and cybersecurity compliance (ISO27001, LGPD, GDPR).
-
-## 🤝 Let's Connect?
-- Open source is my passion! Check out my [repositories](https://github.com/mariosergiosl?tab=repositories) or contribute via issues/PRs.
-- Contributions welcome — follow guidelines in [CONTRIBUTING.md](https://github.com/mariosergiosl/.github/blob/main/profile/CONTRIBUTING.md).
-
+- Interests: AI for DevOps, edge computing, digital forensics, and cybersecurity compliance (ISO27001, LGPD, GDPR), Linux.
 *by Mario Luz | Last updated: October 03, 2025*
