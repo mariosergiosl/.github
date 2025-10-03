@@ -16,11 +16,7 @@ Member of APECOF - National Association of Forensic Computing Experts.
 Forensic Computing Expert for the Court of Justice of the Federal District and Territories (TJDFT).
 
 ## 📊 GitHub Stats
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosergiosl&layout=compact&theme=radical&hide_border=true)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosergiosl&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
 
