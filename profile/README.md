@@ -21,9 +21,11 @@ Updated on: **October 03, 2025**.
 - [Salt Master with Podman](https://github.com/mariosergiosl/salt-master)  
   Complete guide for SaltStack v3007 on openSUSE Leap 15.6 with SSH/API.  
   [![Build](https://img.shields.io/github/actions/workflow/status/mariosergiosl/salt-master/ci.yml?label=Build)](https://github.com/mariosergiosl/salt-master/actions)
+  [![Stars](https://img.shields.io/github/stars/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/salt-master)
 - [Memusage](https://github.com/mariosergiosl/memusage)  
   Python tool for monitoring memory usage and processes on Linux.  
   [![Build](https://img.shields.io/github/actions/workflow/status/mariosergiosl/memusage/ci.yml?label=Build)](https://github.com/mariosergiosl/memusage/actions)
+  [![Stars](https://img.shields.io/github/stars/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/memusage)
 - [SUSE Manager Client Cleanup](https://github.com/mariosergiosl/susemanager-client-cleanup)  
   Script to optimize client cleanup in SUSE Manager.  
   [![Stars](https://img.shields.io/github/stars/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/susemanager-client-cleanup)
