@@ -1,4 +1,5 @@
 # 👋 Olá, eu sou Mario Luz!
+![Banner](banner.jpeg)
 
 Desenvolvedor DevOps e Sysadmin apaixonado por automação e ferramentas open source.  
 Atualizado em: **03 de outubro de 2025**.
