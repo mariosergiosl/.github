@@ -20,6 +20,8 @@ Atualizado em: **03 de outubro de 2025**.
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
+
 ## 🎯 Habilidades
 - **Linguagens**: Python, Bash
 - **Ferramentas**: SaltStack, Podman, Docker, Linux
