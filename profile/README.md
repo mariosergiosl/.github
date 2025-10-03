@@ -7,7 +7,7 @@ Updated on: **October 03, 2025**.
 
 ## 🛠️ About Me
 - 💼 **Current Role**: Premium Services Engineer at SUSE (Aug 2021 – Present) and Judicial Expert in Applied Forensic Computing, TJDFT - Freelance (Jun 2025 – Present)
-- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/mariosergiosl/) | [Personal Blog](https://nordico.club) | [GitHub](https://github.com/mariosergiosl) | [Portfolio](https://lattes.cnpq.br/2504292559472109) | [ORCID](https://orcid.org/0009-0006-3750-1871)
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/mariosergiosl/) | [Personal Blog](https://nordico.club) | [GitHub](https://github.com/mariosergiosl) | [Lattes](https://lattes.cnpq.br/2504292559472109) | [ORCID](https://orcid.org/0009-0006-3750-1871)
 - 🎯 **Focus**: IT Infrastructure, Linux, Cloud Computing, Infrastructure Automation, Kubernetes, Cybersecurity, Information Security, Forensic Computing, High Availability, Virtualization, IT Service Management, ITIL, SUSE, Mainframe, zLinux, Enterprise Solutions, MBA, ISO27001, LGPD, GDPR, SLES, SUSE Manager, SUMA, Networking, Python.
 Member of APECOF - National Association of Forensic Computing Experts.  
 Forensic Computing Expert for the Court of Justice of the Federal District and Territories (TJDFT).
