@@ -16,8 +16,18 @@ Updated on: **October 03, 2025**.
 ## 🚀 Highlighted GitHub Projects
 - [Sys-Inspector](https://github.com/mariosergiosl/sys-inspector)  
   eBPF tool for monitoring processes on Linux.  
-  [![Build](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?label=Build)](https://github.com/mariosergiosl/sys-inspector/actions)
-  [![Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+  [![OBS Build Status](https://build.opensuse.org/projects/home:mariosergiosl:sys-inspector/packages/sys-inspector/badge.svg)](https://build.opensuse.org/package/show/home:mariosergiosl:sys-inspector/sys-inspector)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
+  [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
+  [![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
+  [![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
+  [![GitHub Release](https://img.shields.io/github/v/release/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/releases)
+  [![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+  [![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
+  [![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+  [![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
+  ![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 - [Memusage](https://github.com/mariosergiosl/memusage)  
   Python tool for monitoring memory usage and processes on Linux.  
   [![Build](https://img.shields.io/github/actions/workflow/status/mariosergiosl/memusage/ci.yml?label=Build)](https://github.com/mariosergiosl/memusage/actions)
