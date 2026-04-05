@@ -45,56 +45,56 @@ My focus is on solving high-availability architecture challenges and extracting 
 *Python tool for monitoring memory usage and processes on Linux.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/memusage?style=social)](https://github.com/mariosergiosl/memusage/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/memusage?style=social)](https://github.com/mariosergiosl/memusage/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/memusage/ci.yml?branch=main)](https://github.com/mariosergiosl/memusage/actions)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
-[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
-![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/memusage)](https://github.com/mariosergiosl/memusage/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/memusage)](https://github.com/mariosergiosl/memusage)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/memusage)](https://github.com/mariosergiosl/memusage/commits/main)
+![Code Quality](https://github.com/mariosergiosl/memusage/actions/workflows/ci.yml/badge.svg)
 
 ### [SUSE Manager Client Cleanup](https://github.com/mariosergiosl/susemanager-client-cleanup)
 
 *Script to optimize client cleanup in SUSE Manager.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/susemanager-client-cleanup?style=social)](https://github.com/mariosergiosl/susemanager-client-cleanup/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/susemanager-client-cleanup?style=social)](https://github.com/mariosergiosl/susemanager-client-cleanup/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/susemanager-client-cleanup/ci.yml?branch=main)](https://github.com/mariosergiosl/susemanager-client-cleanup/actions)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
-[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
-![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/susemanager-client-cleanup/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/susemanager-client-cleanup)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/susemanager-client-cleanup/commits/main)
+![Code Quality](https://github.com/mariosergiosl/susemanager-client-cleanup/actions/workflows/ci.yml/badge.svg)
 
 ### [Salt Master with Podman](https://github.com/mariosergiosl/salt-master)
 
 *Complete guide for SaltStack v3007 on openSUSE Leap 15.6 with SSH/API.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/salt-master?style=social)](https://github.com/mariosergiosl/salt-master/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/salt-master?style=social)](https://github.com/mariosergiosl/salt-master/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/salt-master/ci.yml?branch=main)](https://github.com/mariosergiosl/salt-master/actions)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
-[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
-![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/salt-master)](https://github.com/mariosergiosl/salt-master/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/salt-master)](https://github.com/mariosergiosl/salt-master)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/salt-master)](https://github.com/mariosergiosl/salt-master/commits/main)
+![Code Quality](https://github.com/mariosergiosl/salt-master/actions/workflows/ci.yml/badge.svg)
 
 ### [K3D Kubernetes Setup](https://github.com/mariosergiosl/k3d)
 
 *Configurations for K3s clusters with Podman.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/k3d?style=social)](https://github.com/mariosergiosl/k3d/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/k3d?style=social)](https://github.com/mariosergiosl/k3d/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/k3d/ci.yml?branch=main)](https://github.com/mariosergiosl/k3d/actions)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
-[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
-![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/k3d)](https://github.com/mariosergiosl/k3d/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/k3d)](https://github.com/mariosergiosl/k3d)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/k3d)](https://github.com/mariosergiosl/k3d/commits/main)
+![Code Quality](https://github.com/mariosergiosl/k3d/actions/workflows/ci.yml/badge.svg)
 
 ## 📊 Activity Matrix
 
