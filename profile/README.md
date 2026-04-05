@@ -26,11 +26,18 @@ My focus is on solving high-availability architecture challenges and extracting 
 
 [![OBS Build Status](https://build.opensuse.org/projects/home:mariosergiosl:sys-inspector/packages/sys-inspector/badge.svg)](https://build.opensuse.org/package/show/home:mariosergiosl:sys-inspector/sys-inspector) 
 [![PyPI version](https://img.shields.io/pypi/v/sys-inspector.svg)](https://pypi.org/project/sys-inspector/) 
+[![GitHub Release](https://img.shields.io/github/v/release/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg?logo=python&logoColor=white)](https://www.python.org/) 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/) 
 [![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers) 
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
+![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 
 ### [Memusage](https://github.com/mariosergiosl/memusage)
 *Python tool for monitoring memory usage and processes on Linux.*
@@ -54,21 +61,7 @@ My focus is on solving high-availability architecture challenges and extracting 
 
 ## 📊 Activity Matrix
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
 
 ---
 *Building systems that scale flawlessly and uncovering truth where others see only noise.*
-
-
-
-
-
-
-
-
-
-
-## 🌟 Achievements and Interests
-- Projects focused on efficiency and security (e.g., anomaly detection in processes).
-- Interests: AI for DevOps, edge computing, digital forensics, and cybersecurity compliance (ISO27001, LGPD, GDPR), Linux.
-*by Mario Luz | Last updated: October 03, 2025*
