@@ -44,42 +44,56 @@ Meu foco é solucionar desafios de arquitetura de alta disponibilidade e extrair
 *Ferramenta em Python para monitoramento de uso de memória e processos no Linux.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/memusage?style=social)](https://github.com/mariosergiosl/memusage/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/memusage?style=social)](https://github.com/mariosergiosl/memusage/network/members)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/memusage/ci.yml?branch=main)](https://github.com/mariosergiosl/memusage/actions)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/memusage)](https://github.com/mariosergiosl/memusage/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/memusage)](https://github.com/mariosergiosl/memusage/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
+![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 
 ### [SUSE Manager Client Cleanup](https://github.com/mariosergiosl/susemanager-client-cleanup)
 
 *Script para otimizar a limpeza de clientes no SUSE Manager.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/susemanager-client-cleanup?style=social)](https://github.com/mariosergiosl/susemanager-client-cleanup/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/susemanager-client-cleanup?style=social)](https://github.com/mariosergiosl/susemanager-client-cleanup/network/members)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/susemanager-client-cleanup/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/susemanager-client-cleanup)](https://github.com/mariosergiosl/susemanager-client-cleanup/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
+![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 
 ### [Salt Master with Podman](https://github.com/mariosergiosl/salt-master)
 
 *Guia completo para implantação do SaltStack v3007 no openSUSE Leap 15.6 com SSH/API.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/salt-master?style=social)](https://github.com/mariosergiosl/salt-master/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/salt-master?style=social)](https://github.com/mariosergiosl/salt-master/network/members)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/salt-master/ci.yml?branch=main)](https://github.com/mariosergiosl/salt-master/actions)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/salt-master)](https://github.com/mariosergiosl/salt-master/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/salt-master)](https://github.com/mariosergiosl/salt-master/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
+![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 
 ### [K3D Kubernetes Setup](https://github.com/mariosergiosl/k3d)
 
 *Configurações essenciais para implantação de clusters K3s utilizando Podman.*
 
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/k3d?style=social)](https://github.com/mariosergiosl/k3d/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/k3d?style=social)](https://github.com/mariosergiosl/k3d/network/members)
-[![Issues](https://img.shields.io/github/issues/mariosergiosl/k3d)](https://github.com/mariosergiosl/k3d/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/k3d)](https://github.com/mariosergiosl/k3d/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/sys-inspector?style=social)](https://github.com/mariosergiosl/sys-inspector/network/members)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/mariosergiosl/sys-inspector/ci.yml?branch=main)](https://github.com/mariosergiosl/sys-inspector/actions)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
+![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 
 ## 📊 Matriz de Atividades
 
@@ -87,3 +101,4 @@ Meu foco é solucionar desafios de arquitetura de alta disponibilidade e extrair
 
 ---
 *Construindo sistemas que escalam perfeitamente e descobrindo a verdade onde outros veem apenas ruído.*
+
