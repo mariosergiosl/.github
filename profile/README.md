@@ -19,9 +19,6 @@ My focus is on solving high-availability architecture challenges and extracting 
 * 🏛️ **Forensics:** Active member of APECOF (National Association of Forensic Computing Experts).
 * 📡 **Telemetry:** [LinkedIn](https://www.linkedin.com/in/mariosergiosl/) | [Nordico Club](https://nordico.club) | [Lattes](http://lattes.cnpq.br/2504292559472109) | [ORCID](https://orcid.org/0009-0006-3750-1871)
 
-## 📊 GitHub Stats
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mariosergiosl&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariosergiosl&theme=radical)
-
 ## 🚀 Highlighted Projects & Proof of Work
 
 ### [Sys-Inspector](https://github.com/mariosergiosl/sys-inspector)
