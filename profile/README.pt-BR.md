@@ -40,6 +40,19 @@ Meu foco é resolver desafios de arquitetura de alta disponibilidade e extrair d
 [![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
 ![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
 
+### [AMIBIOS DMI Update Driver](https://github.com/mariosergiosl/amibios_dmi)
+
+*Módulo de kernel Linux para atualizar informações de DMI/SMBIOS em placas-mãe AMI BIOS via chamadas de System Management Interrupt (SMI). Modernizado e corrigido para suporte a kernels 5.14 a 6.4+.*
+
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-green.svg)](https://github.com/mariosergiosl/amibios_dmi/blob/main/COPYING)
+[![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/mariosergiosl/amibios_dmi)
+[![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
+![SLES](https://img.shields.io/badge/Tested%20on-SLES%2012%20SP5%20%7C%2015%20SP5--SP7-73ba25)
+![Kernel](https://img.shields.io/badge/Kernel-5.14%20%7C%206.4-blue)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/amibios_dmi?style=social)](https://github.com/mariosergiosl/amibios_dmi/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/amibios_dmi?style=social)](https://github.com/mariosergiosl/amibios_dmi/network/members)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/issues)
+
 ### [Memusage](https://github.com/mariosergiosl/memusage)
 
 *Ferramenta em Python para monitoramento de uso de memória e processos no Linux.*
