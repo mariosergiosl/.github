@@ -15,7 +15,7 @@ I am a Systems Engineer with over 25 years of experience engineering complex IT 
 
 My focus is on solving high-availability architecture challenges and extracting ground-truth data directly from the OS kernel, bypassing user-space limitations.
 
-* 🔭 **Currently building:** [`sys-inspector`](https://github.com/mariosergiosl/sys-inspector) – an advanced observability and forensic tool powered by eBPF.
+* 🔭 **Currently building:** [`sys-inspector`](https://github.com/mariosergiosl/sys-inspector) – an advanced observability and forensic tool powered by eBPF and maintaining [`amibios_dmi`](https://github.com/mariosergiosl/amibios_dmi) (modernized kernel module for AMI DMI/SMBIOS tables).
 * 🏛️ **Forensics:** Active member of APECOF (National Association of Forensic Computing Experts).
 * 📡 **Telemetry:** [LinkedIn](https://www.linkedin.com/in/mariosergiosl/) | [Nordico Club](https://nordico.club) | [Lattes](http://lattes.cnpq.br/2504292559472109) | [ORCID](https://orcid.org/0009-0006-3750-1871)
 
@@ -39,6 +39,20 @@ My focus is on solving high-availability architecture challenges and extracting 
 [![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector)
 [![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/sys-inspector)](https://github.com/mariosergiosl/sys-inspector/commits/main)
 ![Code Quality](https://github.com/mariosergiosl/sys-inspector/actions/workflows/ci.yml/badge.svg)
+
+### [AMIBIOS DMI Update Driver](https://github.com/mariosergiosl/amibios_dmi)
+
+*Linux kernel module to update DMI/SMBIOS information in AMI BIOS via System Management Interrupt (SMI) calls. Backported and modernized for kernels 5.14 to 6.4+.*
+
+[![GitHub Release](https://img.shields.io/github/v/release/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/releases)
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-green.svg)](https://github.com/mariosergiosl/amibios_dmi/blob/main/COPYING)
+[![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/mariosergiosl/amibios_dmi)
+[![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/amibios_dmi?style=social)](https://github.com/mariosergiosl/amibios_dmi/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/amibios_dmi?style=social)](https://github.com/mariosergiosl/amibios_dmi/network/members)
+[![Issues](https://img.shields.io/github/issues/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/issues)
+[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi)
+[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/commits/main)
 
 ### [Memusage](https://github.com/mariosergiosl/memusage)
 
