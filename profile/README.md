@@ -15,7 +15,7 @@ I am a Systems Engineer with over 25 years of experience engineering complex IT 
 
 My focus is on solving high-availability architecture challenges and extracting ground-truth data directly from the OS kernel, bypassing user-space limitations.
 
-* 🔭 **Currently building:** [`sys-inspector`](https://github.com/mariosergiosl/sys-inspector) – an advanced observability and forensic tool powered by eBPF and maintaining [`amibios_dmi`](https://github.com/mariosergiosl/amibios_dmi) (modernized kernel module for AMI DMI/SMBIOS tables).
+* 🔭 **Currently building:** [`sys-inspector`](https://github.com/mariosergiosl/sys-inspector) – an advanced observability and forensic tool powered by eBPF.
 * 🏛️ **Forensics:** Active member of APECOF (National Association of Forensic Computing Experts).
 * 📡 **Telemetry:** [LinkedIn](https://www.linkedin.com/in/mariosergiosl/) | [Nordico Club](https://nordico.club) | [Lattes](http://lattes.cnpq.br/2504292559472109) | [ORCID](https://orcid.org/0009-0006-3750-1871)
 
