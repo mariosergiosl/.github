@@ -44,15 +44,14 @@ My focus is on solving high-availability architecture challenges and extracting 
 
 *Linux kernel module to update DMI/SMBIOS information in AMI BIOS via System Management Interrupt (SMI) calls. Backported and modernized for kernels 5.14 to 6.4+.*
 
-[![GitHub Release](https://img.shields.io/github/v/release/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/releases)
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-green.svg)](https://github.com/mariosergiosl/amibios_dmi/blob/main/COPYING)
 [![Language: C](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/mariosergiosl/amibios_dmi)
 [![Platform: Linux](https://img.shields.io/badge/platform-linux-green.svg?logo=linux&logoColor=white)](https://www.kernel.org/)
+![SLES](https://img.shields.io/badge/Tested%20on-SLES%2012%20SP5%20%7C%2015%20SP5--SP7-73ba25)
+![Kernel](https://img.shields.io/badge/Kernel-5.14%20%7C%206.4-blue)
 [![GitHub Stars](https://img.shields.io/github/stars/mariosergiosl/amibios_dmi?style=social)](https://github.com/mariosergiosl/amibios_dmi/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/mariosergiosl/amibios_dmi?style=social)](https://github.com/mariosergiosl/amibios_dmi/network/members)
 [![Issues](https://img.shields.io/github/issues/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/issues)
-[![Code Size](https://img.shields.io/github/languages/code-size/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi)
-[![Last Commit](https://img.shields.io/github/last-commit/mariosergiosl/amibios_dmi)](https://github.com/mariosergiosl/amibios_dmi/commits/main)
 
 ### [Memusage](https://github.com/mariosergiosl/memusage)
 
