@@ -1,5 +1,3 @@
-![Banner](banner.jpeg)
-
 # Mário Luz - Arquitetura de Sistemas & Perícia Digital
 
 **Language / Idioma:** [🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
