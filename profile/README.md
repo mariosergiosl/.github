@@ -1,5 +1,3 @@
-![Banner](banner.jpeg)
-
 # Mario Luz - Systems Architecture & Digital Forensics
 
 **Language / Idioma:** [🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
