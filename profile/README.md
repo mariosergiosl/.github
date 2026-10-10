@@ -1,6 +1,6 @@
 # Mario Luz - Systems Architecture & Digital Forensics
 
-**Language / Idioma:** [🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+**Language / Idioma:** [🇺🇸 English](profile/README.md) | [🇧🇷 Português](profile/README.pt-BR.md)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![eBPF](https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=linux&logoColor=white)
